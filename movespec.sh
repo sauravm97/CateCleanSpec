@@ -6,8 +6,8 @@ COURSES[113]="Architecture"
 COURSES[120]="Programming"
 COURSES[130]="Databases"
 COURSES[140]="Logic"
-COURSES[141]="Reasoning about Programs"
-COURSES[142]="Discrete Mathematics"
+COURSES[141]="ReasoningAboutPrograms"
+COURSES[142]="DiscreteMathematics"
 COURSES[161]="Laboratory"
 
 find ~/Downloads/spec-* | while read line; do
